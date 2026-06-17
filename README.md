@@ -21,24 +21,6 @@ I am especially interested in work that involves medical image review, 3D anatom
 
 ## Featured 3D Slicer Projects
 
-### CT Chest Bone Segmentation and 3D Reconstruction
-
-This project uses a CT chest dataset to segment high-density bone structures and generate a 3D reconstruction. It includes original CT review, threshold bone selection, cleaned segmentation, and final 3D model export.
-
-**Repository:** `ctchest-bone-segmentation-3d-slicer`
-
-### Brain MRI Region Annotation and 3D Visualization
-
-This project uses a brain MRI dataset to annotate a visible region of interest, review the annotation in multiple anatomical planes, clean the segmentation, and create a final 3D visualization.
-
-**Repository:** `brain-mri-region-annotation-3d-slicer`
-
-### CTA Abdomen 3D Visualization and Segmentation
-
-This project focuses on abdominal CT angiography visualization. It includes abdominal structure selection, segmentation cleanup, 3D rendering, and model export.
-
-**Repository:** `cta-abdomen-3d-visualization-slicer`
-
 ### CTACardio 3D Visualization and Segmentation
 
 This project uses a cardiac CT angiography dataset to review contrast-enhanced cardiac anatomy, create a cardiac structure selection, refine the segmentation, and export a final 3D model.
