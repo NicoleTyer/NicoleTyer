@@ -1,16 +1,78 @@
-## Hi there 👋
+# Nicole Tyler
 
-<!--
-**NicoleTyer/NicoleTyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Medical Imaging and 3D Visualization Portfolio
 
-Here are some ideas to get you started:
+Hello, my name is Nicole Tyler. I am building a medical imaging and 3D analysis portfolio focused on 3D Slicer, segmentation workflows, anatomical visualization, and 3D model export. My projects show my ability to review medical imaging datasets, work across axial, sagittal, coronal, and 3D views, create structured segmentations, clean visual outputs, and document each workflow clearly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am especially interested in work that involves medical image review, 3D anatomical visualization, segmentation quality checking, model preparation, and structured data development for imaging projects.
+
+## Core Skills
+
+- 3D Slicer workflow documentation
+- CT, CTA, CBCT, and MRI image review
+- Threshold-based segmentation
+- Segmentation cleanup and refinement
+- Anatomical 3D visualization
+- Multi-plane image review
+- STL, OBJ, and PLY model export
+- Screenshot-based workflow presentation
+- Technical documentation
+- Quality review of imaging outputs
+
+## Featured 3D Slicer Projects
+
+### CT Chest Bone Segmentation and 3D Reconstruction
+
+This project uses a CT chest dataset to segment high-density bone structures and generate a 3D reconstruction. It includes original CT review, threshold bone selection, cleaned segmentation, and final 3D model export.
+
+**Repository:** `ctchest-bone-segmentation-3d-slicer`
+
+### Brain MRI Region Annotation and 3D Visualization
+
+This project uses a brain MRI dataset to annotate a visible region of interest, review the annotation in multiple anatomical planes, clean the segmentation, and create a final 3D visualization.
+
+**Repository:** `brain-mri-region-annotation-3d-slicer`
+
+### CTA Abdomen 3D Visualization and Segmentation
+
+This project focuses on abdominal CT angiography visualization. It includes abdominal structure selection, segmentation cleanup, 3D rendering, and model export.
+
+**Repository:** `cta-abdomen-3d-visualization-slicer`
+
+### CTACardio 3D Visualization and Segmentation
+
+This project uses a cardiac CT angiography dataset to review contrast-enhanced cardiac anatomy, create a cardiac structure selection, refine the segmentation, and export a final 3D model.
+
+**Repository:** `ctacardio-3d-visualization-slicer`
+
+### CBCT Dental Surgery 3D Visualization and Segmentation
+
+This project uses a dental cone-beam CT dataset to review maxillofacial anatomy, isolate skull and jaw structures, clean the bone segmentation, and create a final 3D dental skull model.
+
+**Repository:** `cbct-dental-surgery-3d-slicer`
+
+### CTA Abdomen Panoramix 3D Rendering and Abdominal Structure Segmentation
+
+This project presents a second abdominal CTA workflow using different naming, documentation, and output structure. It focuses on abdominal anatomy review, vascular-bone visualization, refined segmentation, and 3D rendering.
+
+**Repository:** `panoramix-cta-abdomen-rendering-slicer`
+
+## Portfolio Focus
+
+My current portfolio demonstrates practical experience with medical imaging workflows using 3D Slicer. Each project includes a structured folder layout with screenshots, segmentation files, exported 3D models, workflow notes, and a final scene file. The goal of this portfolio is to show careful image review, clear visual documentation, and consistent technical organization.
+
+## Repository Structure Used in My Projects
+
+Each project follows a clean structure:
+
+```text
+project-name/
+│
+├── README.md
+├── .gitignore
+│
+├── screenshots/
+├── models/
+├── segmentations/
+├── scene/
+└── notes/
